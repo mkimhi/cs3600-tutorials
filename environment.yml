@@ -1,4 +1,4 @@
-name: cs3600-tut
+name: cs3600
 channels:
   - pytorch
   - defaults
